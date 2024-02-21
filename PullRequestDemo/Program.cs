@@ -6,7 +6,7 @@ namespace PullRequestDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pull request assignment hello world");
+            Console.WriteLine("Hello world!");
         }
     }
 };
